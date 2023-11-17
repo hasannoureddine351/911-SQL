@@ -35,13 +35,9 @@ The database covers:
 
 ## Queries
 Retrieve all calls with their details.
-
 Count the number of calls for each reason.
-
 Find the most common reasons for calls
-
 Retrieve calls within a specific time range.
-
 Get unique townships (twp) and the number of calls in each.
 
 
