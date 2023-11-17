@@ -34,10 +34,10 @@ The database covers:
 - Materialized Views: Consider creating materialized views, particularly for frequently queried data and aggregations.
 
 ## Queries
-Retrieve all calls with their details.
-Count the number of calls for each reason.
-Find the most common reasons for calls
-Retrieve calls within a specific time range.
-Get unique townships (twp) and the number of calls in each.
+Retrieve all calls with their details.<br>
+Count the number of calls for each reason.<br>
+Find the most common reasons for calls<br>
+Retrieve calls within a specific time range.<br>
+Get unique townships (twp) and the number of calls in each.<br>
 
 
