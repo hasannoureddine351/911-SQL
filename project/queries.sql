@@ -27,10 +27,6 @@ ORDER BY
     twp_calls DESC
 LIMIT 10;
 
-
--- Find the average response time for each reason.
-
-
 -- Test the on_delete trigger
 DELETE FROM calls_view WHERE id = 11;
 
